@@ -1,0 +1,1 @@
+Inserting a second text file which will be inserted to commit via amend.
